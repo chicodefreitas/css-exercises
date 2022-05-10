@@ -1,0 +1,14 @@
+.box1,
+.box2 {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.box1 {
+  background-color: black;
+  color: white;
+}
+
+.box2 {
+  background-color: yellow;
+}
